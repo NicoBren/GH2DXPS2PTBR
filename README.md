@@ -1,7 +1,7 @@
 # GH2DXPTBR - PS2
 Tradução do GH2DX PS2 para PT-BR
 
-Arquivos .dta para a tradução. NÂO SERA DISPONILIZADO IMAGEM ISO. 
+Arquivos .dta para a tradução. NÃO SERA DISPONILIZADO IMAGEM ISO. 
 
 Tutorial: Substitua os arquivos em _ark\ui\eng e build o .HDR e .ark e depois contrua a ISO com UltraISO em modo DVD PS2.
 
