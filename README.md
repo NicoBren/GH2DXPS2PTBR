@@ -1,5 +1,5 @@
-# GH2DXPTBR
-Tradução do GH2DX para PT-BR
+# GH2DXPTBR - PS2
+Tradução do GH2DX PS2 para PT-BR
 
 Arquivos .dta para a tradução. NÂO SERA DISPONILIZADO IMAGEM ISO. 
 
@@ -12,7 +12,7 @@ O GH2 usa a Codificação: ISO 8959-1 (ANSI), isso permite colocar acentuação 
 Arquivos originais disponiveis em @hmxmilohax - https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe
 
 ENG:
-Translation of GH2DX to PT-BR
+Translation of GH2DX - PS2 to PT-BR
 
 .dta files for translation. ISO IMAGE WILL NOT BE AVAILABLE.
 
