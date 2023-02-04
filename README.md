@@ -3,7 +3,7 @@ Tradução do GH2DX para PT-BR
 
 Arquivos .dta para a tradução. NÂO SERA DISPONILIZADO IMAGEM ISO. 
 
-Tutorial: Substitua os arquivos em Guitar-Hero-II-Deluxe-2.0\_ark\ui\eng e build o .HDR e .ark e depois contrua a ISO com UltraISO em modo DVD PS2.
+Tutorial: Substitua os arquivos em _ark\ui\eng e build o .HDR e .ark e depois contrua a ISO com UltraISO em modo DVD PS2.
 
 A tradução ainda não esta 100%. Atualmente o status é de uns 5% do jogo. Somente algumas palavras trocadas a fim de teste.
 
@@ -16,7 +16,7 @@ Translation of GH2DX to PT-BR
 
 .dta files for translation. ISO IMAGE WILL NOT BE AVAILABLE.
 
-Tutorial: Replace the files in Guitar-Hero-II-Deluxe-2.0\_ark\ui\eng and build the .HDR and .ark and then build the ISO with UltraISO in PS2 DVD mode.
+Tutorial: Replace the files in _ark\ui\eng and build the .HDR and .ark and then build the ISO with UltraISO in PS2 DVD mode.
 
 The translation is not 100%. Currently the status is about 5% of the game. Just a few words exchanged for testing purposes.
 
