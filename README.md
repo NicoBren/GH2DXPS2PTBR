@@ -21,3 +21,12 @@ Tutorial: Replace the files in _ark\ui\eng and build the .HDR and .ark and then 
 The translation is not 100%. Currently the status is about 5% of the game. Just a few words exchanged for testing purposes.
 
 GH2 uses Encoding: ISO 8959-1 (ANSI), this allows you to place accents on words and use letters such as Ç.
+
+imgs:
+
+
+![Screenshot 2023-02-04 16-29-00](https://user-images.githubusercontent.com/89282630/216792344-cb32e8a0-e261-47f0-808b-ed16c4a77af4.png)
+
+![Screenshot 2023-02-04 16-29-57](https://user-images.githubusercontent.com/89282630/216792348-6bde4d0e-1dd8-4661-9c9a-c43184f6d46f.png)
+
+![Screenshot 2023-02-04 16-28-01](https://user-images.githubusercontent.com/89282630/216792354-ab785477-d529-481d-818c-724d930d5084.png)
